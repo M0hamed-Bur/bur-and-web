@@ -3,12 +3,12 @@ Groupe ID : 70
 
 members :
 
--Djellal Mohamed Abdelwadoud.
+-Djellal Mohamed Abdelwadoud ( Excel )
 
--Boucheche Abderrahmane.
+-Boucheche Abderrahman ( PowerPoint )
 
--Kadri Mohammed Ali.
+-Kadri Mohammed Ali ( LaTex )
 
--Biyou Youcef.
+-Biyou Youcef ( researches  )
 
--Nemir Douaouda Sami.
+-Nemir Douaouda Sami ( Word )
