@@ -5,7 +5,7 @@ members :
 
 -Djellal Mohamed Abdelwadoud ( Excel )
 
--Boucheche Abderrahman ( PowerPoint )
+-Boucheche Abderrahmane ( PowerPoint )
 
 -Kadri Mohammed Ali ( LaTex )
 
